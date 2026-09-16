@@ -9,6 +9,7 @@
       "nav.ueberuns": "Über uns",
       "nav.kontakt": "Kontakt",
       "nav.cta": "Anfrage senden",
+      "nav.warum": "Warum wir",
       "hero.eyebrow": "Spedition & Transportvermittlung",
       "hero.title": "Zuverlässige Transporte – regional in Stuttgart, deutschlandweit & europaweit",
       "hero.lead": "0711 CARGO organisiert Ihre Transporte über ein Netzwerk sorgfältig ausgewählter Partnerunternehmen – von der Sprinterfahrt bis zum Sattelzug, als Teil- oder Komplettladung. Persönlich betreut von Kaan Kocaman, ohne Callcenter und ohne Umwege.",
@@ -18,6 +19,9 @@
       "hero.trust2": "Sprinter bis Sattelzug",
       "hero.trust3": "Express- & Sonderfahrten",
       "hero.trust4": "Gefahrguttransporte",
+      "hero.slogan": "Ihre Fracht. Unser Netzwerk. Ihr Vorteil.",
+      "hero.stat1": "Ø Reaktionszeit auf Ihre Anfrage",
+      "hero.stat2": "häufig schon abholbereit",
       "coverage.legend1": "Region Stuttgart – kurze Wege",
       "coverage.legend2": "Deutschlandweit",
       "coverage.legend3": "Europaweit",
@@ -99,6 +103,27 @@
       "form.submit": "Anfrage per E-Mail senden",
       "form.note": "Öffnet Ihr E-Mail-Programm mit einer vorausgefüllten Anfrage an dispo@0711cargo.de.",
       "form.success": "E-Mail-Programm wird geöffnet …",
+      "why.eyebrow": "Warum 0711 CARGO",
+      "why.title": "Der Unterschied liegt im Netzwerk",
+      "why.lead": "Kein eigener Fuhrpark heißt nicht weniger Möglichkeiten – im Gegenteil: Sie profitieren von einem flexiblen Partnernetzwerk und einem festen Ansprechpartner.",
+      "why1.title": "Flexibel statt festgefahren",
+      "why1.text": "Wir verfügen über ein Netzwerk verschiedener Transportpartner und können die passende Transportlösung individuell auf Ihre Sendung abstimmen.",
+      "why2.title": "Schnelle Abwicklung",
+      "why2.text": "Kurze Kommunikationswege und persönliche Betreuung sorgen dafür, dass Ihre Transportanfrage schnell bearbeitet wird.",
+      "why3.title": "Nationale & internationale Transporte",
+      "why3.text": "Wir organisieren Transporte innerhalb Deutschlands sowie grenzüberschreitend in Europa.",
+      "why4.title": "Faire & transparente Lösungen",
+      "why4.text": "Wir suchen für Ihren Transport eine wirtschaftliche Lösung, ohne dabei die Zuverlässigkeit aus den Augen zu verlieren.",
+      "why5.title": "Persönlicher Ansprechpartner",
+      "why5.text": "Keine anonyme Hotline und kein kompliziertes Ticketsystem – Sie haben einen festen Ansprechpartner für Ihre Transportanfrage.",
+      "why6.title": "Eine Anfrage – eine komplette Lösung",
+      "why6.text": "Sie übermitteln uns die Transportdaten. Wir kümmern uns um die Organisation und Koordination des Transports.",
+      "manifesto.eyebrow": "Unsere Philosophie",
+      "manifesto.title": "Logistik ohne eigenen Fuhrpark – dafür mit mehr Flexibilität.",
+      "manifesto.subtitle": "Ein eigener Fuhrpark bedeutet nicht automatisch die passende Transportlösung.",
+      "manifesto.text": "0711 CARGO arbeitet bewusst mit einem flexiblen Netzwerk von Transportpartnern. Dadurch können wir unsere Transportlösungen an die jeweilige Fracht, Strecke und zeitliche Anforderung anpassen.",
+      "manifesto.cta": "Sie benötigen einen Transport? Wir kümmern uns um die Organisation.",
+      "manifesto.button": "Jetzt Anfrage senden",
       "footer.claim": "Transportvermittlung für Nah- und Fernverkehr – regional in Stuttgart, deutschlandweit und europaweit.",
       "footer.nav": "Navigation",
       "footer.legal": "Rechtliches",
@@ -113,6 +138,7 @@
       "nav.ueberuns": "About",
       "nav.kontakt": "Contact",
       "nav.cta": "Send request",
+      "nav.warum": "Why us",
       "hero.eyebrow": "Freight Forwarding & Transport Brokerage",
       "hero.title": "Reliable transport – regional around Stuttgart, nationwide & across Europe",
       "hero.lead": "0711 CARGO arranges your transport through a network of carefully selected partner carriers – from van to full trailer, as part loads or full loads. Personally handled by Kaan Kocaman, no call centre, no detours.",
@@ -122,6 +148,9 @@
       "hero.trust2": "Van to full trailer",
       "hero.trust3": "Express & special transports",
       "hero.trust4": "Dangerous goods transport",
+      "hero.slogan": "Your freight. Our network. Your advantage.",
+      "hero.stat1": "average response time to your request",
+      "hero.stat2": "often ready for pickup",
       "coverage.legend1": "Stuttgart region – short distances",
       "coverage.legend2": "Nationwide (Germany)",
       "coverage.legend3": "Across Europe",
@@ -203,6 +232,27 @@
       "form.submit": "Send request by email",
       "form.note": "Opens your email program with a pre-filled request to dispo@0711cargo.de.",
       "form.success": "Opening your email program …",
+      "why.eyebrow": "Why 0711 CARGO",
+      "why.title": "The difference is in the network",
+      "why.lead": "No own fleet doesn't mean fewer options – quite the opposite: you benefit from a flexible partner network and one fixed contact person.",
+      "why1.title": "Flexible, not fixed",
+      "why1.text": "We have a network of different transport partners and can tailor the right transport solution to your specific shipment.",
+      "why2.title": "Fast processing",
+      "why2.text": "Short communication paths and personal support mean your transport request is handled quickly.",
+      "why3.title": "National & international transport",
+      "why3.text": "We arrange transport within Germany as well as across borders throughout Europe.",
+      "why4.title": "Fair & transparent solutions",
+      "why4.text": "We look for an economical solution for your transport without ever losing sight of reliability.",
+      "why5.title": "Personal point of contact",
+      "why5.text": "No anonymous hotline and no complicated ticket system – you have one fixed contact person for your transport request.",
+      "why6.title": "One request – one complete solution",
+      "why6.text": "You send us the transport details. We take care of organising and coordinating the transport.",
+      "manifesto.eyebrow": "Our Philosophy",
+      "manifesto.title": "Logistics without our own fleet – but with more flexibility.",
+      "manifesto.subtitle": "Owning a fleet doesn't automatically mean having the right transport solution.",
+      "manifesto.text": "0711 CARGO deliberately works with a flexible network of transport partners. This lets us adapt our transport solutions to the specific cargo, route and timing required.",
+      "manifesto.cta": "Need a transport? We'll take care of the organisation.",
+      "manifesto.button": "Send a request now",
       "footer.claim": "Transport brokerage for regional and long-distance haulage – around Stuttgart, across Germany and throughout Europe.",
       "footer.nav": "Navigation",
       "footer.legal": "Legal",
@@ -217,6 +267,7 @@
       "nav.ueberuns": "Hakkımızda",
       "nav.kontakt": "İletişim",
       "nav.cta": "Talep gönder",
+      "nav.warum": "Neden biz",
       "hero.eyebrow": "Nakliye ve Taşıma Aracılığı",
       "hero.title": "Güvenilir nakliye – Stuttgart bölgesinde, Almanya genelinde ve Avrupa çapında",
       "hero.lead": "0711 CARGO, taşımalarınızı dikkatle seçilmiş partner firmalardan oluşan bir ağ üzerinden organize eder – kamyonetten tıra kadar, parsiyel veya komple yük olarak. Kaan Kocaman tarafından çağrı merkezi olmadan, kişisel olarak yürütülür.",
@@ -226,6 +277,9 @@
       "hero.trust2": "Kamyonetten tıra kadar",
       "hero.trust3": "Ekspres ve özel seferler",
       "hero.trust4": "Tehlikeli madde taşımacılığı",
+      "hero.slogan": "Sizin yükünüz. Bizim ağımız. Sizin avantajınız.",
+      "hero.stat1": "Talebinize ortalama yanıt süresi",
+      "hero.stat2": "çoğunlukla kısa sürede alım hazır",
       "coverage.legend1": "Stuttgart bölgesi – kısa mesafeler",
       "coverage.legend2": "Almanya geneli",
       "coverage.legend3": "Avrupa çapında",
@@ -307,6 +361,27 @@
       "form.submit": "Talebi e-posta ile gönder",
       "form.note": "E-posta programınızı, dispo@0711cargo.de adresine önceden doldurulmuş bir talep ile açar.",
       "form.success": "E-posta programı açılıyor …",
+      "why.eyebrow": "Neden 0711 CARGO",
+      "why.title": "Fark, ağımızda",
+      "why.lead": "Kendi filomuzun olmaması daha az seçenek anlamına gelmez – tam tersine: esnek bir partner ağından ve sabit bir iletişim kişisinden faydalanırsınız.",
+      "why1.title": "Katı değil, esnek",
+      "why1.text": "Farklı nakliye partnerlerinden oluşan bir ağa sahibiz ve doğru taşıma çözümünü gönderinize özel olarak uyarlayabiliriz.",
+      "why2.title": "Hızlı işlem",
+      "why2.text": "Kısa iletişim yolları ve kişisel destek, taşıma talebinizin hızlı bir şekilde işleme alınmasını sağlar.",
+      "why3.title": "Ulusal ve uluslararası taşımacılık",
+      "why3.text": "Almanya içinde ve Avrupa genelinde sınır ötesi taşımaları organize ediyoruz.",
+      "why4.title": "Adil ve şeffaf çözümler",
+      "why4.text": "Güvenilirlikten ödün vermeden taşımanız için ekonomik bir çözüm arıyoruz.",
+      "why5.title": "Kişisel iletişim kişisi",
+      "why5.text": "Anonim bir çağrı merkezi veya karmaşık bir bilet sistemi yok – taşıma talebiniz için sabit bir iletişim kişiniz var.",
+      "why6.title": "Tek talep – eksiksiz bir çözüm",
+      "why6.text": "Bize taşıma bilgilerini iletirsiniz. Taşımanın organizasyonu ve koordinasyonuyla biz ilgileniriz.",
+      "manifesto.eyebrow": "Felsefemiz",
+      "manifesto.title": "Kendi filomuz yok – ama daha fazla esneklik sunuyoruz.",
+      "manifesto.subtitle": "Kendi filonuzun olması otomatik olarak doğru taşıma çözümüne sahip olduğunuz anlamına gelmez.",
+      "manifesto.text": "0711 CARGO bilinçli olarak esnek bir nakliye partner ağıyla çalışır. Bu sayede taşıma çözümlerimizi ilgili yüke, güzergaha ve zaman gereksinimine göre uyarlayabiliriz.",
+      "manifesto.cta": "Bir taşımaya mı ihtiyacınız var? Organizasyonuyla biz ilgileniriz.",
+      "manifesto.button": "Şimdi talep gönder",
       "footer.claim": "Yurt içi ve uzun mesafe taşımacılık için nakliye aracılığı – Stuttgart bölgesinde, Almanya genelinde ve Avrupa çapında.",
       "footer.nav": "Menü",
       "footer.legal": "Yasal",
@@ -424,11 +499,59 @@
     document.querySelectorAll("#year").forEach(function (el) { el.textContent = y; });
   }
 
+  /* ---------------- hero slider ---------------- */
+  function initHeroSlider() {
+    var slider = document.getElementById("heroSlider");
+    var dotsWrap = document.getElementById("heroDots");
+    if (!slider || !dotsWrap) return;
+    var slides = Array.prototype.slice.call(slider.querySelectorAll(".hero-slide"));
+    var dots = Array.prototype.slice.call(dotsWrap.querySelectorAll("button"));
+    if (!slides.length) return;
+    var current = 0;
+    var timer = null;
+    var reduceMotion = false;
+    try { reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches; } catch (e) {}
+
+    function show(i) {
+      current = (i + slides.length) % slides.length;
+      slides.forEach(function (s, idx) { s.classList.toggle("active", idx === current); });
+      dots.forEach(function (d, idx) { d.classList.toggle("active", idx === current); });
+    }
+    function next() { show(current + 1); }
+    function start() {
+      if (reduceMotion) return;
+      stop();
+      timer = window.setInterval(next, 6000);
+    }
+    function stop() {
+      if (timer) { window.clearInterval(timer); timer = null; }
+    }
+
+    dots.forEach(function (d) {
+      d.addEventListener("click", function () {
+        show(parseInt(d.getAttribute("data-goto"), 10) || 0);
+        start();
+      });
+    });
+
+    var heroSection = slider.closest(".hero");
+    if (heroSection) {
+      heroSection.addEventListener("mouseenter", stop);
+      heroSection.addEventListener("mouseleave", start);
+      heroSection.addEventListener("focusin", stop);
+      heroSection.addEventListener("focusout", start);
+    }
+
+    show(0);
+    start();
+  }
+
   document.addEventListener("DOMContentLoaded", function () {
     initLang();
     initMenu();
     initCookieBanner();
     initContactForm();
     initYear();
+    initHeroSlider();
   });
 })();
